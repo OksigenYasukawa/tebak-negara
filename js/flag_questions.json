@@ -99,6 +99,51 @@
         "right_answer": "india"
     },
     {
+        "img": "portugal.png",
+        "options": [
+            "portugal",
+            "norway",
+            "spain"
+        ],
+        "right_answer": "portugal"
+    },
+    {
+        "img": "usa.svg",
+        "options": [
+            "swiss",
+            "united of states",
+            "united of kingdom"
+        ],
+        "right_answer": "united of states"
+    },
+    {
+        "img": "malaysia.png",
+        "options": [
+            "malaysia",
+            "united of states",
+            "united of kingdom"
+        ],
+        "right_answer": "malaysia"
+    },
+    {
+        "img": "spain.png",
+        "options": [
+            "french",
+            "portugal",
+            "spain"
+        ],
+        "right_answer": "spain"
+    },
+    {
+        "img": "vietnam.png",
+        "options": [
+            "vietnam",
+            "italy",
+            "australia"
+        ],
+        "right_answer": "vietnam"
+    },
+    {
         "img": "thailand.png",
         "options": [
             "palestine",
