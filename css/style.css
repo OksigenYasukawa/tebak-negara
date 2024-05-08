@@ -201,11 +201,11 @@ h3 {
 }
 
 .flags .flag-options ul li.success {
-    background-color: #1eb53a;
+    background-color: #1eb53a !important;
 }
 
 .flags .flag-options ul li.wrong {
-    background-color: red;
+    background-color: red !important;
 }
 
 @media(min-width: 375px) {
