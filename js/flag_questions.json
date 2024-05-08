@@ -43,7 +43,7 @@
             "germany"
         ],
         "right_answer": "germany"
-    },
+    }, 
     {
         "img": "austria.png",
         "options": [
@@ -72,7 +72,7 @@
         "right_answer": "mexico"
     },
     {
-        "img": "monaco.png",
+        "img": "indonesia.png",
         "options": [
             "indonesia",
             "somalia",
