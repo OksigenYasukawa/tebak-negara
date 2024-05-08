@@ -49,12 +49,12 @@ function getQuestions() {
 
                         //Add Questions Data To Show The Next Question
                         addQuestionData(questions[currentIndex], qCount);
-                    }, 1000);
+                    }, 10000);
 
                     //Show Results
                     setTimeout(() => {
                         showResults(qCount);
-                    }, 1002);
+                    }, 10002);
                 });
             });
         }
