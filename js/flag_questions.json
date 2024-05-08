@@ -74,11 +74,11 @@
     {
         "img": "monaco.png",
         "options": [
-            "indonesia",
+            "monaco",
             "somalia",
             "albania"
         ],
-        "right_answer": "indonesia"
+        "right_answer": "monaco"
     },
     {
         "img": "uzbekistan.png",
