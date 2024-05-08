@@ -54,7 +54,7 @@ function getQuestions() {
                     //Show Results
                     setTimeout(() => {
                         showResults(qCount);
-                    }, 1002);
+                    }, 5002);
                 });
             });
         }
