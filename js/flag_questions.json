@@ -88,7 +88,7 @@
             "kyrgyzstan"
         ],
         "right_answer": "uzbekistan"
-    }, /*
+    }, 
     {
         "img": "india.png",
         "options": [
@@ -538,5 +538,5 @@
             "swaziland"
         ],
         "right_answer": "swaziland"
-    } */
+    } 
 ]
