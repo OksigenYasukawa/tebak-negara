@@ -37,7 +37,7 @@ function getQuestions() {
                     //Check The Answer after 500ms
                     setTimeout(() => {
                         checkAnswer(rightAnswer, qCount);
-                    }, 4500);
+                    }, 300);
 
                     setTimeout(() => {
                         //Remove Previous Image Source
