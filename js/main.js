@@ -37,7 +37,7 @@ function getQuestions() {
                     //Check The Answer after 500ms
                     setTimeout(() => {
                         checkAnswer(rightAnswer, qCount);
-                    }, 5000);
+                    }, 4500);
 
                     setTimeout(() => {
                         //Remove Previous Image Source
@@ -49,12 +49,12 @@ function getQuestions() {
 
                         //Add Questions Data To Show The Next Question
                         addQuestionData(questions[currentIndex], qCount);
-                    }, 10000);
+                    }, 5000);
 
                     //Show Results
                     setTimeout(() => {
                         showResults(qCount);
-                    }, 10002);
+                    }, 5002);
                 });
             });
         }
