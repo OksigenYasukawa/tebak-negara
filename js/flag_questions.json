@@ -54,13 +54,13 @@
         "right_answer": "iraq"
     },
     {
-        "img": "lebanon.png",
+        "img": "indonesia.png",
         "options": [
             "canada",
-            "lebanon",
+            "indonesia",
             "morocco"
         ],
-        "right_answer": "lebanon"
+        "right_answer": "indonesia"
     },
     {
         "img": "mexico.png",
