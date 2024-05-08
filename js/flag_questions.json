@@ -1,4 +1,4 @@
-[
+[ 
     {
         "img": "argentina.png",
         "options": [
@@ -7,7 +7,7 @@
             "uruguay"
         ],
         "right_answer": "argentina"
-    },
+    }, /*
     {
         "img": "brazil.png",
         "options": [
@@ -538,5 +538,5 @@
             "swaziland"
         ],
         "right_answer": "swaziland"
-    }
+    } */
 ]
