@@ -7,6 +7,16 @@
             "uruguay"
         ],
         "right_answer": "argentina"
+    }
+/*
+    {
+        "img": "argentina.png",
+        "options": [
+            "guatemala",
+            "argentina",
+            "uruguay"
+        ],
+        "right_answer": "argentina"
     }, 
     {
         "img": "brazil.png",
@@ -538,5 +548,5 @@
             "swaziland"
         ],
         "right_answer": "swaziland"
-    } 
+    } */
 ]
