@@ -107,40 +107,4 @@
         ],
         "right_answer": "sudan"
     },
-    {
-        "img": "saudi-arabia.png",
-        "options": [
-            "palestine",
-            "saudi arabia",
-            "kuwait"
-        ],
-        "right_answer": "saudi arabia"
-    },
-    {
-        "img": "hongkong.png",
-        "options": [
-            "hong kong",
-            "Haiti",
-            "Timor-Leste"
-        ],
-        "right_answer": "hong kong"
-    },
-    {
-        "img": "laos.png",
-        "options": [
-            "Togo",
-            "Haiti",
-            "laos"
-        ],
-        "right_answer": "laos"
-    },
-    {
-        "img": "nicaragua.png",
-        "options": [
-            "nicaragua",
-            "Vanuatu",
-            "Turkmenistan"
-        ],
-        "right_answer": "nicaragua"
-    }
 ]
