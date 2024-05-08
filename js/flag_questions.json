@@ -45,22 +45,22 @@
         "right_answer": "germany"
     },
     {
-        "img": "iraq.png",
+        "img": "austria.png",
         "options": [
-            "iraq",
+            "austria",
             "syria",
             "yemen"
         ],
-        "right_answer": "iraq"
+        "right_answer": "austria"
     },
     {
-        "img": "indonesia.png",
+        "img": "china.png",
         "options": [
             "canada",
-            "indonesia",
+            "china",
             "morocco"
         ],
-        "right_answer": "indonesia"
+        "right_answer": "china"
     },
     {
         "img": "mexico.png",
@@ -72,13 +72,13 @@
         "right_answer": "mexico"
     },
     {
-        "img": "somalia.png",
+        "img": "monaco.png",
         "options": [
-            "vietnam",
+            "indonesia",
             "somalia",
             "albania"
         ],
-        "right_answer": "somalia"
+        "right_answer": "indonesia"
     },
     {
         "img": "uzbekistan.png",
@@ -99,12 +99,12 @@
         "right_answer": "india"
     },
     {
-        "img": "sudan.png",
+        "img": "thailand.png",
         "options": [
             "palestine",
             "united arab emirates",
-            "sudan"
+            "thailand"
         ],
-        "right_answer": "sudan"
+        "right_answer": "thailand"
     },
 ]
