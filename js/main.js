@@ -49,7 +49,7 @@ function getQuestions() {
 
                         //Add Questions Data To Show The Next Question
                         addQuestionData(questions[currentIndex], qCount);
-                    }, 5000);
+                    }, 3000);
 
                     //Show Results
                     setTimeout(() => {
