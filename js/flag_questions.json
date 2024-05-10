@@ -111,17 +111,17 @@
         "img": "usa.svg",
         "options": [
             "swiss",
-            "united of states",
-            "united of kingdom"
+            "united states",
+            "united kingdom"
         ],
-        "right_answer": "united of states"
+        "right_answer": "united states"
     },
     {
         "img": "malaysia.png",
         "options": [
             "malaysia",
-            "united of states",
-            "united of kingdom"
+            "united states",
+            "united kingdom"
         ],
         "right_answer": "malaysia"
     },
@@ -142,6 +142,33 @@
             "australia"
         ],
         "right_answer": "vietnam"
+    },
+    {
+        "img": "japan.png",
+        "options": [
+            "japan",
+            "north korea",
+            "bangladesh"
+        ],
+        "right_answer": "japan"
+    },
+    {
+        "img": "south-korea.png",
+        "options": [
+            "north korea",
+            "south korea",
+            "japan"
+        ],
+        "right_answer": "south-korea"
+    },
+    {
+        "img": "north-korea.png",
+        "options": [
+            "north korea",
+            "bangladesh",
+            "south korea"
+        ],
+        "right_answer": "north korea"
     },
     {
         "img": "thailand.png",
